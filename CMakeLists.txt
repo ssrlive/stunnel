@@ -5,7 +5,7 @@ set(CMAKE_C_STANDARD 99)
 
 add_definitions(-DHAVE_CONFIG_H)
 
-include_directories(src linux)
+include_directories(src linux-cfg)
 
 add_executable(stunnel
         src/client.c

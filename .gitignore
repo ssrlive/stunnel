@@ -28,4 +28,7 @@ tools/stunnel.conf-sample
 tools/stunnel.init
 tools/stunnel.service
 
-
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+stunnel
